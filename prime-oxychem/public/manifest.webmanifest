@@ -1,0 +1,17 @@
+{
+  "name": "PRIME | OXYCHEM",
+  "short_name": "PRIME",
+  "description": "Easy chemistry learning, visual notes and app experiences.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "portrait",
+  "background_color": "#eaf4fb",
+  "theme_color": "#eaf4fb",
+  "icons": [
+    { "src": "brand/prime-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "brand/prime-icon-1024.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" },
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
